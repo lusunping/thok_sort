@@ -9,9 +9,9 @@ using System.Windows.Forms;
 
 namespace thok_sort
 {
-    public partial class Form1 : Form
+    public partial class thok_sort : Form
     {
-        public Form1()
+        public thok_sort()
         {
             InitializeComponent();
         }
